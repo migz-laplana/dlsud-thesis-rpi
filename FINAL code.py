@@ -32,8 +32,8 @@ if __name__ == '__main__':
                 rfid = rfid
                 lat1 = lt1
                 long1 = lng1
-                lat2 = 14.415361
-                long2 = 121.040799
+                lat2 = lt2
+                long2 = lng2
                 
 
                 for variable in ["driverid", "rfid", "lat1", "long1", "lat2", "long2"]:
